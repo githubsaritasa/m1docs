@@ -1,4 +1,3 @@
-# m1docs
 # MediumOne Microchip IoT Ethernet Development 
 ## Developed by Saritasa 2016
 
