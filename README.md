@@ -26,7 +26,10 @@ IoT Development board installation:
 
 Sensors Click configuration:
 1. Motion Sensor Click
+
 2. Air Quality Click
+
 3. Temperature and Humidity Click
+
 4. Pressure and Temperature Click
 
