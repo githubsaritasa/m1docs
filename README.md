@@ -1,5 +1,5 @@
 # MediumOne Microchip IoT Ethernet Development 
-## Developed by Saritasa 2016
+##                        Developed by Saritasa 2016
 
 - App Menu and Setup
 - IoT Development board installation
