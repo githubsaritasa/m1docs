@@ -25,6 +25,7 @@ IoT Development board installation:
 5. Click Run to download the code to the board.
 
 Sensors Click configuration:
+
 1. Motion Sensor Click
 
 2. Air Quality Click
