@@ -1,49 +1,32 @@
 # m1docs
+# MediumOne Microchip IoT Ethernet Development 
+## Developed by Saritasa 2016
+
+- App Menu and Setup
+- IoT Development board installation
+- Sensors Click configuration
 
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
+App Menu and Setup:
 
-**This is bold text**
-*This text is italicized*
-
-~~This was mistaken text~~
-**This text is _extremely_ important**
-
-In the words of Abraham Lincoln:
-
-> Pardon my French
+1. Download App from Google Play or App Store
+2. Configure App to connect the hardware endpoint
 
 
-List:
+IoT Development board installation:
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+1. Embedded Firmware for the Microchip IoT Ethernet board
+  https://drive.google.com/file/d/0B5kQERCKKQGWblN1R2NfUURfLTA/view?usp=sharing
+2. This is the IoT Ethernet board from Microchip
+  https://drive.google.com/file/d/0B5kQERCKKQGWRi10UzZ4U1N2aXc/view?usp=sharing
+3. Connect PICKit, ICD3 or Real ICE debugger to the board.
+4. Download MPLAB development software from Microchip website.
+  http://www.microchip.com/mplab/
+5. Click Run to download the code to the board.
 
+Sensors Click configuration:
+1. Motion Sensor Click
+2. Air Quality Click
+3. Temperature and Humidity Click
+4. Pressure and Temperature Click
 
-Numbered list:
-
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-
-List with indents:
-
-1. Make my changes
-  1. Fix bug
-  2. Improve formatting
-    * Make the headings bigger
-2. Push my commits to GitHub
-3. Open a pull request
-  * Describe my changes
-  * Mention all the members of my team
-    * Ask for feedback
-
-
-Tasks:
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
