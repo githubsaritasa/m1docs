@@ -24,7 +24,12 @@ IoT Development board installation:
   http://www.microchip.com/mplab/
 5. Click Run to download the code to the board.
   https://drive.google.com/file/d/0B5kQERCKKQGWVkJFbDFFMEtyX0E/view?usp=sharing
-6.
+6. Download CoolTerm if you have not installed it.
+  http://freeware.the-meiers.org
+7. Open Coolterm, click connect and hit enter, then jot down the ip address.
+  https://drive.google.com/file/d/0B5kQERCKKQGWRE5XWTRxeTUxSVk/view?usp=sharing
+8. Enter the ip address to the web browser, then configure the web page with desire credentials.
+  https://drive.google.com/file/d/0B5kQERCKKQGWNFQtbFBNT1llVTA/view?usp=sharing
 
 Sensors Click configuration:
 
