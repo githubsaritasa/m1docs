@@ -30,7 +30,7 @@ IoT Development board installation:
 7. Open Coolterm, click connect and hit enter, then jot down the ip address.
   https://drive.google.com/file/d/0B5kQERCKKQGWRE5XWTRxeTUxSVk/view?usp=sharing
 8. Enter the ip address to the web browser, then configure the web page with desire credentials.
-  https://drive.google.com/file/d/0B5kQERCKKQGWNFQtbFBNT1llVTA/view?usp=sharing
+  https://drive.google.com/file/d/0B5kQERCKKQGWWnRfSUlpUmZVUFE/view?usp=sharing
 
 Sensors Click configuration:
 
