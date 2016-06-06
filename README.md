@@ -1,21 +1,14 @@
-# MediumOne Microchip IoT Ethernet Development 
-##                        Developed by Saritasa 2016
+# MediumOne Microchip IOT Ethernet Monitoring Kit Development 
+####                        Developed by Saritasa 2016
 
-- App Menu and Setup
-- IoT Development board installation
-- Sensors Click configuration
+## Introdution
+This kit is designed to provide product designers or IOT enabled companies, a baseline and open reference design. The kit is complete with sensor, embedded, cloud, and mobile app. The kit supports out-of-the-box capabilities for sensors, including enterprise grade security and real-time cloud processing, dashboards, and companion mobile app. For information about ordering the kit & sensors, activate and setup guide, please visit https://mediumone.com/microchip/index.
 
+This guide is intended to help you compile the firmware code for the kit and installation.
 
-App Menu and Setup:
+##IOT Ethernet Monitoring Kit installation:
 
-1. Download App from Google Play or App Store
-2. Configure App to connect the hardware endpoint
-3. App User Guide
-
-
-IoT Development board installation:
-
-1. Embedded Firmware for the Microchip IoT Ethernet board
+1. Download the latest embedded firmware source code for the Microchip IOT Ethernet Monitoring board at:
   https://drive.google.com/file/d/0B5kQERCKKQGWblN1R2NfUURfLTA/view?usp=sharing
 2. This is the IoT Ethernet board from Microchip
   https://drive.google.com/file/d/0B5kQERCKKQGWRi10UzZ4U1N2aXc/view?usp=sharing
@@ -29,10 +22,9 @@ IoT Development board installation:
   http://freeware.the-meiers.org
 7. Open Coolterm, click connect and hit enter, then jot down the ip address.
   https://drive.google.com/file/d/0B5kQERCKKQGWRE5XWTRxeTUxSVk/view?usp=sharing
-8. Enter the ip address to the web browser, then configure the web page with desire credentials.
-  https://drive.google.com/file/d/0B5kQERCKKQGWWnRfSUlpUmZVUFE/view?usp=sharing
+8. Go to https://mediumone.com/microchip/activate to activate the kit. After activate you will receive emails instruct to configurate and control the kit.
 
-Sensors Click configuration:
+##Sensors information:
 
   *Motion Sensor Click*
 
